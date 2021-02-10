@@ -1,2 +1,2 @@
 # hidden-tag
-Discord Hidden Tag Exploit
+Discord Hidden Tag Exploit  
