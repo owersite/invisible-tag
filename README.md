@@ -5,3 +5,6 @@ So basicly people will not be able to see tag in message you're sending.
 
 # Examples
 ![Example](example.png)
+
+# Disclaimer:
+For educational purposes only, (me)Owersite, is not resposible for whatever you do with this.
