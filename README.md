@@ -10,5 +10,5 @@ So basicly people will not be able to see tag in message you're sending.
 I do not claim making Invisible Tag exploit, actually i found it on github! But the python script was not working so
 Invisible Tag Exploit is officially fixed by me!
 
-# Disclaimer:
-###### Owersite(creator of Invisible Tag Discord Exploit & this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
+### Disclaimer:
+###### Owersite(creator of this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
