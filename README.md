@@ -11,4 +11,4 @@ I do not claim making Invisible Tag exploit, actually i found it on github! But 
 Invisible Tag Exploit is officially fixed by me!
 
 # Disclaimer:
-### Owersite(creator of exploit & github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
+### Owersite(creator of Invisible Tag Discord Exploit & this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
