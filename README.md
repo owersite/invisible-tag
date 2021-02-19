@@ -1,9 +1,10 @@
 # Invisible Tag Discord Exploit
 ### Description
-This Exploit gives you ability to tag people without them seeing the tag. (You can do @Guy / @everyone / @here)
+###### This Exploit gives you ability to tag people without them seeing the tag. (You can do @Guy / @everyone / @here)
 So basicly people will not be able to see tag in message you're sending.
 
-
+## T.O.S
+###### This repository/project is under MIT licence, if you are using it please leave watermark to the owner. (github.com/owersite)
 
 # Examples
 ![Example](example.png)
