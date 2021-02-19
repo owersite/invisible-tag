@@ -13,7 +13,7 @@ So basicly people will not be able to see tag in message you're sending.
 Invisible Tag Exploit is officially fixed by me!
 
 ## T.O.S
-## This repository/project is under MIT licence, if you are using it please leave watermark to the owner. (github.com/owersite)
+###### This repository/project is under MIT licence, if you are using it please leave watermark to the owner. (github.com/owersite)
 
 ## Disclaimer:
 #### Owersite(creator) is not is not resposible for whatever you do with this, it is made for educational purposes only!
